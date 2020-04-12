@@ -13,7 +13,7 @@ Aplicacion hecha en Android Studio con Kotlin, para que nunca mas te rechacen!
 <h2><u> Demo </u></h2>
 
 
-![](.\app\src\main\res\drawable\preview.gif)
+![](./app/src/main/res/drawable/preview.gif)
 
 
 
