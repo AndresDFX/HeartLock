@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HeartLock</string>
+    <string name="no">No</string>
+    <string name="yes">SI, ¡me encantaria!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="question">¿Quieres ser mi novia?</string>
+    <string name="message">¡LO SABIA,\nSeremos Felices Por Siempre!\n\n¡TE AMO!</string>
+</resources>

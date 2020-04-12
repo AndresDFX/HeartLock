@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeartLock</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">YES, I\'d love to!</string>
+    <string name="no">No</string>
+    <string name="question"><u><b>¿Will you be my girlfriend?</b></u></string>
+    <string name="message">I KNEW IT,\nWe Will be Happy Forever!\n\n¡I LOVE YOU!</string>
+</resources>
